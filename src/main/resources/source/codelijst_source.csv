@@ -1,8 +1,0 @@
-uri,type,dc.id,collection,notation,prefLabel,altLabel,broader,broaderTransitive,broadMatch,changeNote,closeMatch,definition,editorialNote,exactMatch,example,hiddenLabel,historyNote,inScheme,mappingRelation,note,related,relatedMatch,scopeNote,semanticRelation,topConceptOf
-colt:erkenningstypes,skos:Collection,erkenningstypes,,,Collectie van erkenningstypes.,,,,,,,,,,,,,cs,erkenningstype,,,,,,
-ct:a,skos:Concept,a,colt:erkenningstypes,,1. Bemalingen,,,,,,,,,,,,,cs:erkenningstype,,,,,,,cs:erkenningstype
-ct:b,skos:Concept,b,colt:erkenningstypes,,2. Andere grondwaterwinningen,,,,,,,,,,,,,cs:erkenningstype,,,,,,,cs:erkenningstype
-ct:c,skos:Concept,c,colt:erkenningstypes,,3. Stabiliteitsboringen en geotechnische boringen,,,,,,,,,,,,,cs:erkenningstype,,,,,,,cs:erkenningstype
-ct:d,skos:Concept,d,colt:erkenningstypes,,4. Verticale boringen,,,,,,,,,,,,,cs:erkenningstype,,,,,,,cs:erkenningstype
-ct:e,skos:Concept,e,colt:erkenningstypes,,5. Andere boringen,,,,,,,,,,,,,cs:erkenningstype,,,,,,,cs:erkenningstype
-ct:f,skos:Concept,f,colt:erkenningstypes,,buiten VLAREL erkende boorbedrijven,,,,,,,,,,,,,cs:erkenningstype,,,,,,,cs:erkenningstype
