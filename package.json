@@ -7,7 +7,6 @@
   "scripts": {
     "create_metadata": "cd src && node 02_metadata.js"
   },
-
   "keywords": [
     "milieuinfo",
     "Bodem en ondergrond",
@@ -22,6 +21,6 @@
   "license": "ISC",
   "dependencies": {
     "js-yaml": "^4.1.0",
-    "maven-metadata-generator-npm": "^0.2.40"
+    "maven-metadata-generator-npm": "^0.2.41"
   }
 }
