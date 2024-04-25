@@ -80,7 +80,7 @@ ons:collection
 
 
 
-ons:matrix
+ons:concept
     a                sh:NodeShape ;
     rdfs:label       "matrix"@en ;
     sh:name          "matrix"@en ;
