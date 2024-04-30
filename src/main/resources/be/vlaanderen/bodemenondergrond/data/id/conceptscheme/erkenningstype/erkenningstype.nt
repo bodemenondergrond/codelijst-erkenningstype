@@ -1,0 +1,57 @@
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/erkenningstype/erkenningstypes> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.collection.erkenningstype.erkenningstypes" .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/erkenningstype/erkenningstypes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Collection> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/erkenningstype/erkenningstypes> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/erkenningstype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/erkenningstype/erkenningstypes> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/a> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/erkenningstype/erkenningstypes> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/b> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/erkenningstype/erkenningstypes> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/c> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/erkenningstype/erkenningstypes> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/d> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/erkenningstype/erkenningstypes> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/e> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/erkenningstype/erkenningstypes> <http://www.w3.org/2004/02/skos/core#member> <https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/f> .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/erkenningstype/erkenningstypes> <http://www.w3.org/2004/02/skos/core#notation> "collectie_erkenningstypes" .
+<https://data.bodemenondergrond.vlaanderen.be/id/collection/erkenningstype/erkenningstypes> <http://www.w3.org/2004/02/skos/core#prefLabel> "Collectie van erkenningstypes."@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/a> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.erkenningstype.a" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/a> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/erkenningstype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/a> <http://www.w3.org/2004/02/skos/core#notation> "a" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/a> <http://www.w3.org/2004/02/skos/core#prefLabel> "1. Bemalingen"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/a> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/erkenningstype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/b> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.erkenningstype.b" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/b> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/erkenningstype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/b> <http://www.w3.org/2004/02/skos/core#notation> "b" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/b> <http://www.w3.org/2004/02/skos/core#prefLabel> "2. Andere grondwaterwinningen"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/b> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/erkenningstype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/c> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.erkenningstype.c" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/c> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/erkenningstype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/c> <http://www.w3.org/2004/02/skos/core#notation> "c" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/c> <http://www.w3.org/2004/02/skos/core#prefLabel> "3. Stabiliteitsboringen en geotechnische boringen"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/c> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/erkenningstype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/d> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.erkenningstype.d" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/d> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/erkenningstype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/d> <http://www.w3.org/2004/02/skos/core#notation> "d" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/d> <http://www.w3.org/2004/02/skos/core#prefLabel> "4. Verticale boringen"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/d> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/erkenningstype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/e> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.erkenningstype.e" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/e> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/erkenningstype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/e> <http://www.w3.org/2004/02/skos/core#notation> "e" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/e> <http://www.w3.org/2004/02/skos/core#prefLabel> "5. Andere boringen"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/e> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/erkenningstype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/f> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.concept.erkenningstype.f" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/f> <http://www.w3.org/2004/02/skos/core#inScheme> <https://data.omgeving.vlaanderen.be/id/conceptscheme/erkenningstype> .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/f> <http://www.w3.org/2004/02/skos/core#notation> "f" .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/f> <http://www.w3.org/2004/02/skos/core#prefLabel> "buiten VLAREL erkende boorbedrijven"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/f> <http://www.w3.org/2004/02/skos/core#topConceptOf> <https://data.omgeving.vlaanderen.be/id/conceptscheme/erkenningstype> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/erkenningstype> <http://purl.org/dc/elements/1.1/identifier> "be.vlaanderen.bodemenondergrond.data.id.conceptscheme.erkenningstype" .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/erkenningstype> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#ConceptScheme> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/erkenningstype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/a> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/erkenningstype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/b> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/erkenningstype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/c> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/erkenningstype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/d> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/erkenningstype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/e> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/erkenningstype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/erkenningstype/f> .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/erkenningstype> <http://www.w3.org/2004/02/skos/core#notation> "erkenningstypes" .
+<https://data.omgeving.vlaanderen.be/id/conceptscheme/erkenningstype> <http://www.w3.org/2004/02/skos/core#prefLabel> "Conceptschema van erkenningstypes."@nl .
