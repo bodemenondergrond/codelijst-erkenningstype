@@ -1,8 +1,8 @@
-# codelijst-erkenningstypes
+# codelijst-erkenningstype
 
 ## Samenvatting
 
-De codelijst 'erkenningstypes' bevat eenduidige benamingen van ...
+De codelijst 'erkenningstype' bevat eenduidige benamingen van ...
 
 
 ## Projectinhoud
