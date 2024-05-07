@@ -3,7 +3,7 @@ version: 2
 plan:
   project-key: DOV
   key: DOVBEMONSTERINGSTYPE
-  name: codelijst-erkenningstypes
+  name: codelijst-erkenningstype
 
 triggers:
   - polling: 130
