@@ -387,27 +387,13 @@
     },
     "graph": [
         {
-            "id": "collectie:erkenningstypes",
-            "type": "skos:Collection",
-            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.collection.erkenningstype.erkenningstypes",
-            "inScheme": "conceptscheme:erkenningstype",
-            "member": [
-                "concept:a",
-                "concept:b",
-                "concept:c",
-                "concept:d",
-                "concept:e",
-                "concept:f"
-            ],
-            "notation": "collectie_erkenningstypes",
-            "prefLabel": "Collectie van erkenningstypes."
-        },
-        {
             "id": "concept:a",
             "type": "skos:Concept",
             "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.erkenningstype.a",
+            "definition": "Boorwerkzaamheden die vallen onder discipline 1: bemalingen van de VLAREL-erkenning artikel 6, 7°, a) 1).",
             "inScheme": "conceptscheme:erkenningstype",
             "notation": "a",
+            "note": "Boorwerkzaamheden die vallen onder discipline 1: bemalingen van de VLAREL-erkenning artikel 6, 7°, a) 1).",
             "prefLabel": "1. Bemalingen",
             "topConceptOf": "conceptscheme:erkenningstype"
         },
@@ -415,8 +401,10 @@
             "id": "concept:b",
             "type": "skos:Concept",
             "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.erkenningstype.b",
+            "definition": "Boorwerkzaamheden die vallen onder discipline 2: andere grondwaterwinningen van de VLAREL-erkenning artikel 6, 7°, a) 2). Andere grondwaterwinningen dan de grondwaterwinningen, vermeld in punt 1).",
             "inScheme": "conceptscheme:erkenningstype",
             "notation": "b",
+            "note": "Boorwerkzaamheden die vallen onder discipline 2: andere grondwaterwinningen van de VLAREL-erkenning artikel 6, 7°, a) 2). Andere grondwaterwinningen dan de grondwaterwinningen, vermeld in punt 1).",
             "prefLabel": "2. Andere grondwaterwinningen",
             "topConceptOf": "conceptscheme:erkenningstype"
         },
@@ -424,8 +412,10 @@
             "id": "concept:c",
             "type": "skos:Concept",
             "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.erkenningstype.c",
+            "definition": "Boorwerkzaamheden die vallen onder discipline 3: stabiliteitsboringen en geotechnische boringen van de VLAREL-erkenning artikel 6, 7°, a) 3). Stabiliteitsboringen en geotechnische boringen, met uitzondering van stabiliteitsboringen en geotechnische boringen als vermeld in rubriek 55.2 en 55.3 van de indelingslijst, vermeld in artikel 5.2.1, § 1, van het decreet Milieubeleid.",
             "inScheme": "conceptscheme:erkenningstype",
             "notation": "c",
+            "note": "Boorwerkzaamheden die vallen onder discipline 3: stabiliteitsboringen en geotechnische boringen van de VLAREL-erkenning artikel 6, 7°, a) 3). Stabiliteitsboringen en geotechnische boringen, met uitzondering van stabiliteitsboringen en geotechnische boringen als vermeld in rubriek 55.2 en 55.3 van de indelingslijst, vermeld in artikel 5.2.1, § 1, van het decreet Milieubeleid.",
             "prefLabel": "3. Stabiliteitsboringen en geotechnische boringen",
             "topConceptOf": "conceptscheme:erkenningstype"
         },
@@ -433,8 +423,10 @@
             "id": "concept:d",
             "type": "skos:Concept",
             "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.erkenningstype.d",
+            "definition": "Boorwerkzaamheden die vallen onder discipline 4: verticale boringen van de VLAREL-erkenning artikel 6, 7°, a) 4). a) verticale boringen als vermeld in rubriek 55.1 van bijlage 1 bij titel II van het VLAREM, met uitzondering van de boringen, vermeld in punt 3 (discipline 3: stabiliteitsboringen en geotechnische boringen). b) boringen die vallen onder de uitzondering, vermeld in rubriek 55.1 van bijlage 1 bij titel II van het VLAREM, met uitzondering van de boringen, vermeld in punt 3.",
             "inScheme": "conceptscheme:erkenningstype",
             "notation": "d",
+            "note": "Boorwerkzaamheden die vallen onder discipline 4: verticale boringen van de VLAREL-erkenning artikel 6, 7°, a) 4). a) verticale boringen als vermeld in rubriek 55.1 van bijlage 1 bij titel II van het VLAREM, met uitzondering van de boringen, vermeld in punt 3 (discipline 3: stabiliteitsboringen en geotechnische boringen). b) boringen die vallen onder de uitzondering, vermeld in rubriek 55.1 van bijlage 1 bij titel II van het VLAREM, met uitzondering van de boringen, vermeld in punt 3.",
             "prefLabel": "4. Verticale boringen",
             "topConceptOf": "conceptscheme:erkenningstype"
         },
@@ -442,8 +434,10 @@
             "id": "concept:e",
             "type": "skos:Concept",
             "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.erkenningstype.e",
+            "definition": "Boorwerkzaamheden die vallen onder discipline 5: andere boringen van de VLAREL-erkenning artikel 6, 7°, a) 5) andere boringen: andere boringen dan de boringen, vermeld in punt 1) tot en met 4).",
             "inScheme": "conceptscheme:erkenningstype",
             "notation": "e",
+            "note": "Boorwerkzaamheden die vallen onder discipline 5: andere boringen van de VLAREL-erkenning artikel 6, 7°, a) 5) andere boringen: andere boringen dan de boringen, vermeld in punt 1) tot en met 4).",
             "prefLabel": "5. Andere boringen",
             "topConceptOf": "conceptscheme:erkenningstype"
         },
@@ -451,8 +445,10 @@
             "id": "concept:f",
             "type": "skos:Concept",
             "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.erkenningstype.f",
+            "definition": "Boorwerkzaamheden die niet moeten uitgevoerd worden door een boorbedrijf dat erkend is volgens VLAREL artikel 6, 7°, a).",
             "inScheme": "conceptscheme:erkenningstype",
             "notation": "f",
+            "note": "Boorwerkzaamheden die niet moeten uitgevoerd worden door een boorbedrijf dat erkend is volgens VLAREL artikel 6, 7°, a).",
             "prefLabel": "buiten VLAREL erkende boorbedrijven",
             "topConceptOf": "conceptscheme:erkenningstype"
         },
@@ -460,6 +456,7 @@
             "id": "conceptscheme:erkenningstype",
             "type": "skos:ConceptScheme",
             "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.conceptscheme.erkenningstype",
+            "definition": "Discipline(s) mbt mechanische boringen waarvoor een boorbedrijf erkend kan zijn, of aanvraag tot erkenning kan doen volgens VLAREL artikel 6, 7°, a).",
             "hasTopConcept": [
                 "concept:a",
                 "concept:b",
@@ -469,7 +466,8 @@
                 "concept:f"
             ],
             "notation": "erkenningstypes",
-            "prefLabel": "Conceptschema van erkenningstypes."
+            "note": "Discipline(s) mbt mechanische boringen waarvoor een boorbedrijf erkend kan zijn, of aanvraag tot erkenning kan doen volgens VLAREL artikel 6, 7°, a).",
+            "prefLabel": "Codelijst erkenningstype"
         }
     ]
 }

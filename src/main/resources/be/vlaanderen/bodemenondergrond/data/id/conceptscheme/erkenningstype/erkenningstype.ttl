@@ -54,50 +54,58 @@
 @prefix xkos: <http://rdf-vocabulary.ddialliance.org/xkos#>.
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 
-collectie:erkenningstypes dc:identifier "be.vlaanderen.bodemenondergrond.data.id.collection.erkenningstype.erkenningstypes";
-    a skos:Collection;
-    skos:inScheme conceptscheme:erkenningstype;
-    skos:member concept:a, concept:b, concept:c, concept:d, concept:e, concept:f;
-    skos:notation "collectie_erkenningstypes";
-    skos:prefLabel "Collectie van erkenningstypes."@nl.
 concept:a dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.erkenningstype.a";
     a skos:Concept;
+    skos:definition "Boorwerkzaamheden die vallen onder discipline 1: bemalingen van de VLAREL-erkenning artikel 6, 7°, a) 1)."@nl;
     skos:inScheme conceptscheme:erkenningstype;
     skos:notation "a";
+    skos:note "Boorwerkzaamheden die vallen onder discipline 1: bemalingen van de VLAREL-erkenning artikel 6, 7°, a) 1)."@nl;
     skos:prefLabel "1. Bemalingen"@nl;
     skos:topConceptOf conceptscheme:erkenningstype.
 concept:b dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.erkenningstype.b";
     a skos:Concept;
+    skos:definition "Boorwerkzaamheden die vallen onder discipline 2: andere grondwaterwinningen van de VLAREL-erkenning artikel 6, 7°, a) 2). Andere grondwaterwinningen dan de grondwaterwinningen, vermeld in punt 1)."@nl;
     skos:inScheme conceptscheme:erkenningstype;
     skos:notation "b";
+    skos:note "Boorwerkzaamheden die vallen onder discipline 2: andere grondwaterwinningen van de VLAREL-erkenning artikel 6, 7°, a) 2). Andere grondwaterwinningen dan de grondwaterwinningen, vermeld in punt 1)."@nl;
     skos:prefLabel "2. Andere grondwaterwinningen"@nl;
     skos:topConceptOf conceptscheme:erkenningstype.
 concept:c dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.erkenningstype.c";
     a skos:Concept;
+    skos:definition "Boorwerkzaamheden die vallen onder discipline 3: stabiliteitsboringen en geotechnische boringen van de VLAREL-erkenning artikel 6, 7°, a) 3). Stabiliteitsboringen en geotechnische boringen, met uitzondering van stabiliteitsboringen en geotechnische boringen als vermeld in rubriek 55.2 en 55.3 van de indelingslijst, vermeld in artikel 5.2.1, § 1, van het decreet Milieubeleid."@nl;
     skos:inScheme conceptscheme:erkenningstype;
     skos:notation "c";
+    skos:note "Boorwerkzaamheden die vallen onder discipline 3: stabiliteitsboringen en geotechnische boringen van de VLAREL-erkenning artikel 6, 7°, a) 3). Stabiliteitsboringen en geotechnische boringen, met uitzondering van stabiliteitsboringen en geotechnische boringen als vermeld in rubriek 55.2 en 55.3 van de indelingslijst, vermeld in artikel 5.2.1, § 1, van het decreet Milieubeleid."@nl;
     skos:prefLabel "3. Stabiliteitsboringen en geotechnische boringen"@nl;
     skos:topConceptOf conceptscheme:erkenningstype.
 concept:d dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.erkenningstype.d";
     a skos:Concept;
+    skos:definition "Boorwerkzaamheden die vallen onder discipline 4: verticale boringen van de VLAREL-erkenning artikel 6, 7°, a) 4). a) verticale boringen als vermeld in rubriek 55.1 van bijlage 1 bij titel II van het VLAREM, met uitzondering van de boringen, vermeld in punt 3 (discipline 3: stabiliteitsboringen en geotechnische boringen). b) boringen die vallen onder de uitzondering, vermeld in rubriek 55.1 van bijlage 1 bij titel II van het VLAREM, met uitzondering van de boringen, vermeld in punt 3."@nl;
     skos:inScheme conceptscheme:erkenningstype;
     skos:notation "d";
+    skos:note "Boorwerkzaamheden die vallen onder discipline 4: verticale boringen van de VLAREL-erkenning artikel 6, 7°, a) 4). a) verticale boringen als vermeld in rubriek 55.1 van bijlage 1 bij titel II van het VLAREM, met uitzondering van de boringen, vermeld in punt 3 (discipline 3: stabiliteitsboringen en geotechnische boringen). b) boringen die vallen onder de uitzondering, vermeld in rubriek 55.1 van bijlage 1 bij titel II van het VLAREM, met uitzondering van de boringen, vermeld in punt 3."@nl;
     skos:prefLabel "4. Verticale boringen"@nl;
     skos:topConceptOf conceptscheme:erkenningstype.
 concept:e dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.erkenningstype.e";
     a skos:Concept;
+    skos:definition "Boorwerkzaamheden die vallen onder discipline 5: andere boringen van de VLAREL-erkenning artikel 6, 7°, a) 5) andere boringen: andere boringen dan de boringen, vermeld in punt 1) tot en met 4)."@nl;
     skos:inScheme conceptscheme:erkenningstype;
     skos:notation "e";
+    skos:note "Boorwerkzaamheden die vallen onder discipline 5: andere boringen van de VLAREL-erkenning artikel 6, 7°, a) 5) andere boringen: andere boringen dan de boringen, vermeld in punt 1) tot en met 4)."@nl;
     skos:prefLabel "5. Andere boringen"@nl;
     skos:topConceptOf conceptscheme:erkenningstype.
 concept:f dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.erkenningstype.f";
     a skos:Concept;
+    skos:definition "Boorwerkzaamheden die niet moeten uitgevoerd worden door een boorbedrijf dat erkend is volgens VLAREL artikel 6, 7°, a)."@nl;
     skos:inScheme conceptscheme:erkenningstype;
     skos:notation "f";
+    skos:note "Boorwerkzaamheden die niet moeten uitgevoerd worden door een boorbedrijf dat erkend is volgens VLAREL artikel 6, 7°, a)."@nl;
     skos:prefLabel "buiten VLAREL erkende boorbedrijven"@nl;
     skos:topConceptOf conceptscheme:erkenningstype.
 conceptscheme:erkenningstype dc:identifier "be.vlaanderen.bodemenondergrond.data.id.conceptscheme.erkenningstype";
     a skos:ConceptScheme;
+    skos:definition "Discipline(s) mbt mechanische boringen waarvoor een boorbedrijf erkend kan zijn, of aanvraag tot erkenning kan doen volgens VLAREL artikel 6, 7°, a)."@nl;
     skos:hasTopConcept concept:a, concept:b, concept:c, concept:d, concept:e, concept:f;
     skos:notation "erkenningstypes";
-    skos:prefLabel "Conceptschema van erkenningstypes."@nl.
+    skos:note "Discipline(s) mbt mechanische boringen waarvoor een boorbedrijf erkend kan zijn, of aanvraag tot erkenning kan doen volgens VLAREL artikel 6, 7°, a)."@nl;
+    skos:prefLabel "Codelijst erkenningstype"@nl.

@@ -53,49 +53,6 @@ omg_ag_cl:creator
     foaf:lastName "Van Haute";
     foaf:mbox <mailto:geert.vanhaute@vlaanderen.be>.
 
-# Node Shapes
-ons:schema
-    a                sh:NodeShape ;
-    rdfs:label       "conceptschema van matrices"@en ;
-    sh:name          "conceptschema van matrices"@en ;
-    sh:description   "Het schema waarbinnen de matrices gedefinieerd zijn"@en ;
-    rdfs:isDefinedBy omg_ont:erkenningstype, omg_voc:erkenningstype ;
-    sh:property      omg_ps:conceptscheme_prefLabel, omg_ps:schema_hasTopConcept, omg_ps:dc_identifier, omg_ps:notation, omg_ps:note,
-                     omg_ps:definition, omg_ps:rdf_type;
-    sh:closed true ;
-    sh:targetClass   skos:ConceptScheme .
-
-
-
-ons:collection
-    a                sh:NodeShape ;
-    rdfs:label       "verzameling"@en ;
-    sh:name          "verzameling"@en ;
-    sh:description   "Verzamelingen bundelen matrices met gelijkaardige eigenschappen, analysemethoden of matrices waarin ze gemeten worden."@en ;
-    rdfs:isDefinedBy omg_ont:erkenningstype, omg_voc:erkenningstype ;
-    sh:property      omg_ps:prefLabel, omg_ps:collection_member, omg_ps:dc_identifier, omg_ps:notation,
-                     omg_ps:inScheme, omg_ps:rdf_type;
-    sh:closed true ;
-    sh:targetClass   skos:Collection .
-
-
-
-ons:concept
-    a                sh:NodeShape ;
-    rdfs:label       "matrix"@en ;
-    sh:name          "matrix"@en ;
-    sh:description   "analysemethodes"@en ;
-    rdfs:comment     "compendia onderhouden door VITO"@en ;
-    rdfs:isDefinedBy omg_ont:erkenningstype, omg_voc:erkenningstype ;
-    sh:property      omg_ps:notation, omg_ps:inScheme,
-                     omg_ps:references, omg_ps:definition,
-                     omg_ps:prefLabel, omg_ps:theme,
-                     omg_ps:topConceptOf, omg_ps:altLabel, omg_ps:dc_identifier,
-                     omg_ps:rdf_type, omg_ps:note ;
-    sh:closed true ;
-    sh:targetClass   skos:Concept .
-
-
 
 # Property Shapes
 
@@ -311,6 +268,6 @@ omg_ps:inScheme
     rdfs:isDefinedBy omg_ont:erkenningstype, omg_voc:erkenningstype ;
     sh:class         skos:ConceptScheme ;
     sh:maxCount      1 ;
-    sh:minCount      1 ;
+   # sh:minCount      1 ;
     sh:nodeKind      sh:IRI ;
     sh:path          skos:inScheme .
