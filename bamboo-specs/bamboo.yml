@@ -2,7 +2,7 @@
 version: 2
 plan:
   project-key: DOV
-  key: DOVBEMONSTERINGSTYPE
+  key: DOVERKENNINGSTYPE
   name: codelijst-erkenningstype
 
 triggers:
