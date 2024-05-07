@@ -268,6 +268,6 @@ omg_ps:inScheme
     rdfs:isDefinedBy omg_ont:erkenningstype, omg_voc:erkenningstype ;
     sh:class         skos:ConceptScheme ;
     sh:maxCount      1 ;
-   # sh:minCount      1 ;
+    sh:minCount      1 ;
     sh:nodeKind      sh:IRI ;
     sh:path          skos:inScheme .
