@@ -18,3 +18,5 @@ buildNumber.properties
 .classpath
 node_modules/
 codelijst-erkenningstype.iml
+src/.env
+src/utils/setenv.js
